@@ -24,11 +24,11 @@ const projects = [
         link: "#",
     },
     {
-        title: "Novo Projeto",
+        title: "API's e Integrações Corporativas",
         description:
-            "Projeto corporativo personalizado com arquitetura moderna, APIs escaláveis e interface responsiva.",
+            "Desenvolvimento de APIs robustas e integrações corporativas voltadas para automação de processos, comunicação entre sistemas e alta escalabilidade. O projeto utiliza arquitetura moderna, containers Docker e infraestrutura em nuvem AWS para garantir performance, segurança e disponibilidade.",
         tech: ["Node.js", "Docker", "AWS"],
-        image: "/images/projects/placeholder.jpg",
+        image: "/images/projects/api.jpg",
         website: false,
         link: "#",
     },
