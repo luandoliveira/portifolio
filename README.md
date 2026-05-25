@@ -1,36 +1,165 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Luan de Oliveira — Portfolio
 
-## Getting Started
+Portfólio profissional desenvolvido com foco em:
+- Desenvolvimento Full Stack
+- Arquitetura de Sistemas
+- APIs Escaláveis
+- Transformação Digital
+- Experiência do Usuário
 
-First, run the development server:
+Projeto construído utilizando tecnologias modernas como Next.js, TypeScript, TailwindCSS e Framer Motion.
+
+---
+
+# ✨ Preview
+
+![Preview](./public/preview.png)
+
+---
+
+# 🧠 Sobre o Projeto
+
+Este projeto foi desenvolvido para apresentar:
+- experiência profissional,
+- tecnologias dominadas,
+- projetos desenvolvidos,
+- liderança técnica,
+- especialidades em desenvolvimento e arquitetura.
+
+O objetivo é fornecer uma experiência moderna, responsiva e premium para recrutadores e empresas.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+## Frontend
+- Next.js 15
+- React
+- TypeScript
+- TailwindCSS
+- Framer Motion
+
+## UI & UX
+- shadcn/ui
+- Lucide Icons
+- React Icons
+- Glassmorphism
+- Responsive Design
+
+## Ferramentas
+- Git
+- GitHub
+- Vercel
+- Docker
+
+---
+
+# 📂 Estrutura do Projeto
+
+```bash
+app/
+components/
+ ├── layout/
+ ├── sections/
+ └── ui/
+public/
+styles/
+```
+
+---
+
+# ⚙️ Instalação
+
+Clone o projeto:
+
+```bash
+git clone https://github.com/seuusuario/seurepositorio.git
+```
+
+Entre na pasta:
+
+```bash
+cd seurepositorio
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 🌐 Deploy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+O deploy pode ser realizado facilmente utilizando:
 
-## Learn More
+- Vercel
+- Netlify
+- Docker
 
-To learn more about Next.js, take a look at the following resources:
+Deploy recomendado:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+Vercel
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 📱 Responsividade
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O projeto foi desenvolvido com foco em:
+- Desktop
+- Tablet
+- Mobile
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 🎨 Features
+
+- ✅ Dark / Light Mode
+- ✅ Responsivo
+- ✅ Animações com Framer Motion
+- ✅ Navbar premium
+- ✅ Timeline profissional
+- ✅ Seção de projetos
+- ✅ Glow effects
+- ✅ Smooth Scroll
+- ✅ SEO otimizado
+
+---
+
+# 📈 Performance
+
+O projeto foi otimizado para:
+- Lighthouse Score
+- SEO
+- Performance
+- Acessibilidade
+- Responsividade
+
+---
+
+# 👨‍💻 Autor
+
+## Luan Oliveira
+
+Desenvolvedor Full Stack • Tech Lead • Analista de Sistemas
+
+### Contato
+
+- LinkedIn: https://linkedin.com/in/luandoliveiras
+- GitHub: https://github.com/luandoliveira
+- Email: luanf.d.silva@gmail.com
+
+---
+
+# 📄 Licença
+
+Este projeto está sob a licença MIT.
